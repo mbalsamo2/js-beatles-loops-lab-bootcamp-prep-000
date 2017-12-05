@@ -20,6 +20,8 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(n) {
   var newLove = [];
   
-  do
+  do {
+    while(); 
+  }
 }
 
