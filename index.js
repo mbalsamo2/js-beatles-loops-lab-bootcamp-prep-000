@@ -1,5 +1,7 @@
 function theBeatlesPlay(musicians, instruments) {
-  for()
+  for(i = 0; ) {
+    
+  }
 }
 
 function johnLennonFacts(array) {
