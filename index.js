@@ -1,3 +1,6 @@
+const musicians = ['Jonh Lennon', 'Paul Mcartney', 'George Harrison', 'Ringo Starr'];
+const instruments = ['Guitar', 'Guitar', 'Guitar', 'Drums'];
+ 
 function theBeatlesPlay(musicians, instruments) {
   var play = [];
   
